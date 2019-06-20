@@ -1,6 +1,8 @@
 package javagame;
 
-
+/*
+ * 클래스 연습
+ */
 import java.util.Scanner;
 
 class Client {
@@ -18,7 +20,6 @@ class Client {
 	}
 
 }
- 
 
 public class baskinmain {
 

@@ -14,7 +14,7 @@ class rule {
 	String kababo = ""; 
 	
 	public void kor(int k) {
-		
+		 
 		switch (k) {
 		case 1:kababo = "가위"; break;
 		case 2:kababo = "바위"; break;
